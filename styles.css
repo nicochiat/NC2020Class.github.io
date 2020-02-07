@@ -1,0 +1,11 @@
+
+body {
+    background-color: blueviolet;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+    color: coral;
+    text-align: center;
+}
